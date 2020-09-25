@@ -1,19 +1,30 @@
 # miniapp
 
-## Project setup
-```
-yarn install
-```
+- courses
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+home
 
-### Compiles and minifies for production
-```
-yarn build
-```
+    collections:
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+    org-collections:
+
+    - members / rankings
+
+center
+    
+    personal
+
+        course: subscribed / stared / created
+
+        list: own / joined
+
+    org
+
+        course: subscribed
+
+explore
+
+    courses
+    
+    collections
+

@@ -1,4 +1,4 @@
-# 忽略打包的文件
+babel.config.js
 unpackage/
 dist/
 node_modules/

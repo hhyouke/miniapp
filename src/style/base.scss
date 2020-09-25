@@ -1,0 +1,20 @@
+@import './fonts.scss';
+
+view,
+page,
+text,
+button,
+image,
+textarea,
+scroll-view,input {
+	box-sizing: border-box;
+}
+image {
+	display: block;
+}
+
+page {
+	font-family: 'webfont';
+	font-size: 36rpx;
+	background-color: $uni-bg-color-grey;
+}

@@ -19,7 +19,6 @@ module.exports = {
   trailingComma: 'all',
   // (x) => {} 是否要有小括号
   arrowParens: 'avoid',
-  // HTML空白敏感性
   htmlWhitespaceSensitivity: 'ignore',
   endOfLine: 'auto',
 }
